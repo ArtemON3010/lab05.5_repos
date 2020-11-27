@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Admin\source\repos\Лабораторна робота №5.5\Лабораторна робота №5.5\Source.cpp(9,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторна робота №5.5\Лабораторна робота №5.5\Source.cpp(24,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Admin\source\repos\Лабораторна робота №5.5\Debug\UnitTest1.lib и объект C:\Users\Admin\source\repos\Лабораторна робота №5.5\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\source\repos\Лабораторна робота №5.5\Debug\UnitTest1.dll

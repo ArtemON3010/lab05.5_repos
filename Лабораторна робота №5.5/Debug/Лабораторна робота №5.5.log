@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Лабораторна робота №5.5\Лабораторна робота №5.5\Source.cpp(9,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Лабораторна робота №5.5\Лабораторна робота №5.5\Source.cpp(24,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Лабораторна робота №5.5.vcxproj -> C:\Users\Admin\source\repos\Лабораторна робота №5.5\Debug\Лабораторна робота №5.5.exe
